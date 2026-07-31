@@ -1,17 +1,24 @@
 # Hey there! 👋 I'm Abhishek K
 
-**Building autonomous conversational voice agents that actually understand context.** Blending AI/ML expertise with full-stack engineering to create next-gen communication systems.
+**Building AI/ML projects and cybersecurity solutions that solve real problems.** Full-stack engineer bridging cutting-edge AI with production-grade security, from research → deployment.
 
 ---
 
 ## 🎯 What I Do
 
-At **Sherpa Vector**, I architect and deploy autonomous voice agents using:
-- **GPT-4o Realtime** for dynamic, low-latency conversation
-- **Deepgram** & **ElevenLabs** for speech intelligence & synthesis
-- **Retell AI** & **Telnyx SIP** for enterprise voice integration
+**AI/ML Development**
+- Autonomous conversational voice agents (GPT-4o Realtime, Deepgram, ElevenLabs)
+- NLP pipelines for detection & classification (misinformation, spam, security threats)
+- Healthcare AI leveraging voice biomarkers for diagnostics
 
-My sweet spot: **from ML research → production systems that people actually use.**
+**Cybersecurity & Pentesting**
+- Internal security audit platforms (SecureOps)
+- Incident response & forensics automation
+- Web & network penetration testing
+- SIEM integration (QRadar, Splunk)
+
+**Internship Completed:** Sherpa Vector (autonomous voice agent architecture)  
+My sweet spot: **end-to-end ownership from problem → architecture → code → production**
 
 ---
 
@@ -45,20 +52,23 @@ My sweet spot: **from ML research → production systems that people actually us
 
 ## 🚀 Featured Projects
 
-### [voice-outbound-agent](https://github.com/abhi-30702/voice-outbound-agent)
-Autonomous outbound voice agent leveraging GPT-4o Realtime for natural conversations. Handles complex multi-turn dialogs with context awareness and graceful error recovery.
+### [SecureOps](https://github.com/abhi-30702/SecureOps)
+**PyQt6 internal security audit & penetration testing platform.** Full-featured Kali Linux desktop app with IP scanning, OSINT, cloud auditing, YARA-based incident response, AI advisor layer (Ollama), and automated PDF report generation. Integrates ProjectDiscovery suite (nuclei, subfinder, httpx, naabu, katana), nmap, nikto, testssl. Built with glassmorphism UI, isolated VirtualBox lab for safe testing.
 
-### [Fake_news_detector](https://github.com/abhi-30702/Fake_news_detector)
-ML pipeline combining NLP & sentiment analysis to detect misinformation. Trained on 100k+ articles with >94% accuracy.
+### [Speakeasy](https://github.com/abhi-30702/Speakeasy)
+Autonomous conversational voice agent framework. GPT-4o Realtime integration for natural, low-latency multi-turn conversations. Handles context awareness, error recovery, and production voice pipelines.
 
-### [Parkinson-s_Disease_prediction](https://github.com/abhi-30702/Parkinson-s_Disease_prediction)
-Medical AI classifier using voice biomarkers & accelerometer data. Demonstrates healthcare applications of audio-based diagnostics—directly relevant to voice agent tech.
+### [Lumina](https://github.com/abhi-30702/Lumina)
+Full-stack ML intelligence platform for semantic search & knowledge extraction. Powers intelligent content discovery and document understanding.
 
-### [SPAM_HAM_DETECTOR](https://github.com/abhi-30702/SPAM_HAM_DETECTOR)
-Text classification pipeline for filtering communication channels. Critical for production voice systems handling untrusted inputs.
+### [GitHub Integration](https://github.com/abhi-30702/GitHub-Integration)
+Developer tooling for seamless GitHub API integration, automation, and CI/CD pipeline orchestration.
 
 ### [Cyber-Bullying](https://github.com/abhi-30702/Cyber-Bullying)
-NLP-based content moderation system. Applies responsible AI principles to safe communication platforms.
+**NLP-based content moderation system.** Detects harmful language and bullying behavior in text. Applies responsible AI principles to safe digital communication platforms.
+
+### [SPAM_HAM_DETECTOR](https://github.com/abhi-30702/SPAM_HAM_DETECTOR)
+**Text classification pipeline for communication filtering.** Distinguishes spam from legitimate messages. Critical for production systems handling untrusted user input.
 
 ---
 
@@ -82,39 +92,36 @@ NLP-based content moderation system. Applies responsible AI principles to safe c
 
 - **Pragmatism over hype:** Deploy what users need, not what papers promise
 - **Security by default:** CEH background ensures every system is built defensively
-- **Full-stack ownership:** From research → data prep → training → production → monitoring
+- **Full-stack ownership:** From problem → architecture → code → production → monitoring
 - **Concise, dense code:** Ship fast, iterate faster
-
----
-
-## 🔗 Let's Connect
-
-- **Email:** abhi.codescode@gmail.com
-- **LinkedIn:** [linkedin.com/in/abhijeet-k](https://linkedin.com/in/abhijeet-k)
-- **Location:** Bengaluru, India
-
----
-
-## 📊 GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi-30702&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-30702&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
 ---
 
 ## 💬 Open To
 
-- **Voice AI/ML roles** (remote-friendly)
-- **Consulting** on autonomous agent architecture
-- **Collaboration** on open-source ML projects
-- **Speaking** on production ML & voice AI
-
-**Currently:** Shipping voice agents at Sherpa Vector  
-**Always:** Building, learning, shipping
+- **Building AI/ML projects** (voice, NLP, healthcare AI)
+- **Cybersecurity projects** (pentesting, incident response, security tooling)
+- **Consulting** on secure ML architecture & production deployment
+- **Collaboration** on open-source security & ML initiatives
+- **Speaking** on production ML, voice AI, and secure systems design
 
 ---
 
+## 🔗 Let's Connect
+
+- **Email:** abhi30702@gmail.com
+- **LinkedIn:** [linkedin.com/in/abhishek-k-4498282b7/](https://www.linkedin.com/in/abhishek-k-4498282b7/)
+- **Location:** Bengaluru, India 🇮🇳
+
+---
+
+---
+
+---
+
+**Currently:** Shipping AI/ML & security projects independently  
+**Always:** Building, learning, shipping
+
 <p align="center">
-  <i>Code is poetry written in logic. Let's create something extraordinary.</i> 🚀
+  <i>Code is poetry written in logic. Let's build secure, intelligent systems that actually matter.</i> 🚀
 </p>
